@@ -1,0 +1,2 @@
+Cliente{Nombre: lucas, DNI: 35466772, Activos: []}
+Cliente{Nombre: pedro, DNI: 35666772, Activos: [Cuenta: {Nombre: primer cuenta, Monto: 300.0, Tipo: activo}]}
